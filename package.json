@@ -4,6 +4,7 @@
     "description": "",
     "license": "Proprietary",
     "src": "build/src/",
+    "author": "alyona-shirpal",
     "scripts": {
         "dev": "nodemon",
         "start": "node -r dotenv/config ./dist/app.js",
