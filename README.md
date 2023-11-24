@@ -1,4 +1,4 @@
-# Test Cognito Login Service
+# AWS Cognito Login Service on Node JS
 
 A Node.js service for user authentication using AWS Cognito. This service provides routes for sign up, sign in, OTP verification, and sign out.
 
