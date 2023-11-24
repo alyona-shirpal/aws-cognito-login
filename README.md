@@ -29,3 +29,6 @@ A Node.js service for user authentication using AWS Cognito. This service provid
    ```bash
    git clone <repository-url>
    cd test-cognito-login
+   
+2. Install dependencies ``npm install``
+3. Run the project ``npm run dev``
